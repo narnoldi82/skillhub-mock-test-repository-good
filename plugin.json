@@ -1,0 +1,13 @@
+{
+  "name": "skillhub-mock-test-repository-good",
+  "version": "2.0.0",
+  "description": "Known-good skill in a public repository, used by the SkillCentral live tests (TestE2EPublicRepo).",
+  "author": {
+    "name": "narnoldi82"
+  },
+  "metadata": {
+    "skillcentral": {
+      "hash": "sha256:09ca526d395028f15d479bba3c7ee21932a71bb6e89f53d5cce620493f6b5f4f"
+    }
+  }
+}
