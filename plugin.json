@@ -1,14 +1,14 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "skillhub-mock-test-repository-good",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Known-good skill in a public repository, used by the SkillCentral live tests (TestE2EPublicRepo).",
   "author": {
     "name": "narnoldi82"
   },
   "extensions": {
-    "com.skillcentral": {
-      "hash": "sha256:589dae216803befee3c24a319a890ac4b03c6c42a1e05c6d46780921a3309d00"
+    "io.skillcentral": {
+      "hash": "sha256:5d41c0bc10d758d2e11e9841f576dac1eca421be3d0f95a06a62ed1cab53f977"
     }
   }
 }
